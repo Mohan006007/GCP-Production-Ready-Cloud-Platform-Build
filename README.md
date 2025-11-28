@@ -1,5 +1,5 @@
-# GCP-Production-Ready-Cloud-Platform-Build
-End-to-end GCP cloud platform build featuring production-ready architecture, automation, and DevOps workflows.
+# Private App on Custom VPC + Regional External HTTP(S) Load Balancer + Custom Domain (GoDaddy + Cloud DNS)
+
 ## Pre-requisites
 
 - A Google Cloud project with billing enabled
